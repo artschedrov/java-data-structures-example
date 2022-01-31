@@ -1,2 +1,2 @@
 # java-data-structures-example
-!()[java-ds.jpeg]
+![](java-ds.jpg)
