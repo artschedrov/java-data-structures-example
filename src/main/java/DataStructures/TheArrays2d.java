@@ -17,6 +17,6 @@ public class TheArrays2d {
                 new char[]{'0', '-', '-'},
         };
         System.out.println(Arrays.deepToString(board));
-        System.out.println(Arrays.deepToString(boardTwo ));
+        System.out.println(Arrays.deepToString(boardTwo));
     }
 }

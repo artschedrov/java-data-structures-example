@@ -2,6 +2,10 @@ package DataStructures;
 
 import java.util.Arrays;
 
+/**
+ * В коллекции Java хранятся только ссылки/указатели.
+ * Исключение составляют только примитивы.
+ */
 public class TheArrays {
     public static void main(String[] args) {
         String[] colors = new String[5];
